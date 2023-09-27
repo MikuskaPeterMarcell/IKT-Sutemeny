@@ -4,6 +4,7 @@
 }
 #leiras{
     background-color: rgba(173, 216, 230, 0.9);
+
 }
 #recept{
     background-color: rgba(127, 186, 205, 0.9);
@@ -21,5 +22,5 @@ ol {
     list-style-position: inside;
 }
 img{
-    
+    border: 1px solid lightgrey;
 }
